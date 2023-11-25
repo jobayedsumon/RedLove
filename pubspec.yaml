@@ -1,0 +1,34 @@
+name: redlove
+description:
+  RedLove is a blood donation app that helps connect blood donors with blood recipients.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0-0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.4
+  shared_preferences: ^2.0.20
+  intl: ^0.18.0
+  google_sign_in: ^6.0.2
+  sign_button: ^2.0.3
+  url_launcher: ^6.1.10
+  cloud_firestore: ^4.13.2
+  firebase_core: ^2.23.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/

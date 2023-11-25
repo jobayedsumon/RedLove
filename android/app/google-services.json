@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "837708744200",
+    "project_id": "redlove-c8037",
+    "storage_bucket": "redlove-c8037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837708744200:android:e8b06d54b4f3efad6a33bd",
+        "android_client_info": {
+          "package_name": "tech.jobayedsumon.redlove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837708744200-51r4mo4njti2a6ohuilp0g71691e4dtk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.jobayedsumon.redlove",
+            "certificate_hash": "ddbc13035d7500e3a5431178245e855cff96e351"
+          }
+        },
+        {
+          "client_id": "837708744200-avus1jgqm1gadj0sh53b9hk35i3inkp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6KPcMHEwc7xYMYyVtAxhS8LTH-_He2I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837708744200-avus1jgqm1gadj0sh53b9hk35i3inkp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "837708744200-713ejgsna1teg4vujkffjjhoj4ea9j0u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tech.jobayedsumon.redlove"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
