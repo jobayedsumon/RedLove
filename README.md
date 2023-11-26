@@ -8,7 +8,7 @@ Clone this project on your local. Run `flutter pub get`.
 That's it the project should open in your conncted phone.
 If there's an error related to `multi index`, run with `flutter run --multiindex
 
-# Tech Used`
+# Tech Used
 
 Flutter, Firebase Auth, Firebase Firestore etc.
 
